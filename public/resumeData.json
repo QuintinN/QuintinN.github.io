@@ -1,0 +1,145 @@
+{
+  "main": {
+    "firstName": "Quintin",
+    "name":"Quintin Nguyen",
+    "occupation":"student",
+    "major": "Computer Science",
+    "school": "University of Maryland",
+    "description":"Radical dude",
+    "image":"profilepic.jpg",
+    "bio":"First and foremost, \"Hello World\". When I printed out my first \"Hello World\", I knew coding would be the start of sleepless nights, nonstop head scratches, and lots of stack overflow, but in the end, something I would love forever. In all seriousness, the idea of implementing software to solve practical problems has really captivated me. For example, I built a Java program that helped me solve my chemistry homework with ease because I built-in a periodic table and some equations that I could use to solve in the click of a button. Programming is a never-ending puzzle that I am passionately engaged in solving. I believe that programming can be used to make the world a better place.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "quintintnguyen@gmail.com",
+    "phone": "(571) 314-1528",
+    "address":{
+      "street": "",
+      "city":"Washington",
+      "state":"DC",
+      "zip": ""
+    },
+    "website": "http://www.quintin_n.com",
+    "resumedownload":"https://drive.google.com/file/d/1j9bcSQZQBDEe6ykAZYonrJkxI8hXc-ID/view?usp=sharing",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/quintin-n/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/QuintinN",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "schoolImage":"umd.png",
+    "skillmessage":"Here are some of my skills!",
+    "education":[
+      {
+        "school":"University of Maryland, College Park",
+        "degree":"B.S. in Computer Science, Software Engineering",
+        "graduated":"May 2022",
+        "description":""
+      },
+      {
+        "school":"Coursework",
+        "degree":"Java, C++, Python",
+        "frameworks":"Node.js, ",
+        "Achievements":"",
+        "graduated":"March 2020",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work":[
+      {
+        "company":"Awesome Design Studio",
+        "title":"Senior UX God ",
+        "years":"March 2010 - Present",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Super Cool Studio",
+        "title":"Junior bug fixer",
+        "years":"March 2007 - February 2010",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Simp",
+        "level":"100%"
+      },
+      {
+        "name":"Slave to FDS",
+        "level":"100%"
+      },
+      {
+        "name":"CS Skillz",
+        "level":"34%"
+      },
+      {
+        "name":"LeAgUe oF leGenDs",
+        "level":"3%"
+      },
+      {
+        "name":"Sm0l Penis",
+        "level":"10000%"
+      },
+      {
+        "name":"Friends",
+        "level":"0%"
+      },
+      {
+        "name":"Hunger",
+        "level":"1000%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
