@@ -34,40 +34,64 @@
   },
   "resume":{
     "schoolImage":"umd.png",
+    "appleImage":"appleImage.png",
+    "t1cgImage":"t1cg.png",
+    "clubZImage":"clubZ.png",
+    "muddyBranchImage":"muddyBranch.jpg",
     "skillmessage":"Here are some of my skills!",
     "education":[
       {
         "school":"University of Maryland, College Park",
-        "degree":"B.S. in Computer Science, Software Engineering",
-        "graduated":"May 2022",
-        "description":""
+        "degree":"B.S. in Computer Science, Software Engineering • May 2022"
       },
       {
-        "school":"Coursework",
-        "degree":"Java, C++, Python",
-        "frameworks":"Node.js, ",
-        "Achievements":"",
-        "graduated":"March 2020",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Coursework",
+        "degree":"Java, C++, Python, Javascript, Discrete Mathematics, Data Structures"
+      },
+      {
+        "school": "Other",
+        "degree": "Node.js, React.js, Putty, Notepad++"
+      },
+      {
+        "school": "Achievements",
+        "degree": "• Best Use of Machine Learning at HopHacks Hackathon (2019)",
+        "degree2":"• Featured in a City Press Release for Environmental Impact"
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      "company":"Apple Inc.",
+      "title":"Technical Specialist",
+      "years":"August 2019 – Present",
+      "description1":"• Performed troubleshooting, diagnosis, and repair of MacOS hardware and software for an average of 300 clients per month",
+      "description2":"• Maintained an average customer service rating of 90% or higher in a fast-paced environment"
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Tier 1 Consulting Group",
+        "title":"Software Engineer Intern",
+        "years":"August 2019 – November 2019",
+        "description1":"• Revamped the internal clock-in and time-sheet system that increased workflow by a margin of 20",
+        "description2":"• Developed a webhook based chat-bot, assisting both PMs and developers to remotely execute and share version control on chat",
+        "description3":"• Implemented front-end features for the internal portal, actively accessed by 100+ clients"
+      },
+      {
+        "company":"CLUB Z! IN-HOME TUTORING",
+        "title":"Mathematics Tutor",
+        "years":"April 2019 – September 2019",
+        "description1":"• Tutored 3 individual high school students for their AP Computer Science Exams and they were able to score 4’s and 5’s",
+        "description2":"• Designed rigorous study routines for students resulting in two students increasing their GPA by 20%"
+      },
+      {
+        "company":"Muddy Branch Alliance (Non-Profit)",
+        "title":"Technical Intern",
+        "years":"September 2017 - May 2018",
+        "description1":"• Established an online presence through web development and social media that increased from 3 to 20 student volunteers",
+        "description2":"• Revamped front-end features that enhanced user experience and increased site stickiness by 22%"
       }
     ],
     "skills":[
       {
-        "name":"Simp",
+        "name":"Pimp",
         "level":"100%"
       },
       {
