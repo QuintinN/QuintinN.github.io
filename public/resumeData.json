@@ -18,7 +18,7 @@
       "zip": ""
     },
     "website": "http://www.quintin_n.com",
-    "resumedownload":"https://drive.google.com/file/d/1j9bcSQZQBDEe6ykAZYonrJkxI8hXc-ID/view?usp=sharing",
+    "resumedownload":"https://drive.google.com/file/d/1SbNHB-1ItG755FrI1Wg4d7CV7wk_-6X6/view?usp=sharing",
     "social":[
       {
         "name":"linkedin",
@@ -91,63 +91,48 @@
     ],
     "projects":[
       {
-        "name":"FIN (Friend In Need) Bot",
-        "tools":"Python, Bootstrap, Flask, Google Cloud",
-        "date":"February 2019",
-        "description1":"",
+        "name":"COVID-19 Tracker",
+        "tools":"React, Material Ui",
+        "date":"Personal Project",
+        "description1":"Website designed to track COVID-19 cases using disease.sh API and display up to date reports using Hooks and Material Ui.",
         "description2":""
       },
+
       {
-        "name":"",
-        "tools":"",
-        "date":"",
-        "description":""
+        "name":"Suicide Prevention Chat Bot",
+        "tools":"Python, Bootstrap, Flask, Google Cloud",
+        "date":"Involved Collaboration",
+        "description1":"Implemented Natural Language Processing algorithms using python to determine if the caller is in need of the emergency National Suicide Prevention Hotline.",
+        "description2":"Developed the front-end website for the application from scratch using React over a 48 hour time period."
+      },
+      {
+        "name":"Muddy Branch Trail Project",
+        "tools":"Python, Bootstrap, Flask, Google Maps",
+        "date":"Developer",
+        "description1":"Mapped the Muddy Branch Trail using KeyHole Markup Language and Google Maps to be displayed on the public website.",
+        "description2":"Prevented the destruction of 3 local trails and 2 streams from being torn down and converted to road."
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"",
+        "category":"",
+        "image":"",
+        "url":""
       }
     ]
   },
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text":"",
+        "user":""
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text":"",
+        "user":""
       }
     ]
   }

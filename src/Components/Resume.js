@@ -29,11 +29,11 @@ class Resume extends Component {
       })
       var projects = this.props.data.projects.map(function(projects){
         return <div key={projects.name}><h3>{projects.name}</h3>
-        <p className="info">{work.title} <span>&bull;</span> <em className="date">{work.years}</em></p>
+        <p className="info">{projects.tools} <span>&bull;</span> <em className="date">{projects.date}</em></p>
           <div>                
-            {work.description1} <br></br> 
-            {work.description2} <br></br>
-            {work.description3}</div> <br></br>
+            {projects.description1} <br></br> 
+            {projects.description2} <br></br>
+            </div> <br></br>
           </div>
   })
     }
@@ -83,10 +83,8 @@ class Resume extends Component {
          </div>
 
          <div className="nine columns main-col">
-				<div className="bars">
-					  {projects}
-				</div>
-			</div>
+				  {projects}
+			  </div>
       </div>
    </section>
     );
